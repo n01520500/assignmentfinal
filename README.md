@@ -1,3 +1,5 @@
+<<<<<<< HEAD
+# Assignment-automation
+=======
 # assignmentfinal
-
-<<<<<<< HEAD, =======>>>>>>> <commit-hash>
+>>>>>>> 77b74548dc56f3acedce3b2df744adcb7b51a7ac
